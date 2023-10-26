@@ -66,8 +66,11 @@ Look-aheads and look-behinds perform assertions to check for the presence or abs
 ## Author
 
 This tutorial was made by Alexa Lester during the DU Coding boot camp.
+
 Github: alester77@github.com
+
 Linked In: https://www.linkedin.com/in/alexa-lester-a23143189/
+
 Email: alester0284@gmail.com
 
 
