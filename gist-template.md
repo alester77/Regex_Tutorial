@@ -1,10 +1,10 @@
 # Regex Tutorial
 
-Introductory paragraph (replace this with your text)
+Welcome to this Regex tutorial where we unravel the mysteries behind validating email addresses using Regular Expressions (Regex). By the end of this tutorial, you will have a clearer understanding of how different components of a regex come together to perform a powerful email validation.
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+In this tutorial, we will dissect the following regex used for email validation:
 
 ## Table of Contents
 
