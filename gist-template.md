@@ -70,4 +70,4 @@ Github: alester77@github.com
 Linked In: https://www.linkedin.com/in/alexa-lester-a23143189/
 Email: alester0284@gmail.com
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+
