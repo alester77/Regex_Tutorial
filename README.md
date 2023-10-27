@@ -26,6 +26,12 @@ https://www.youtube.com/watch?v=wc2NlcWjQHw
 
 https://docs.github.com/en/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists
 
+Learning about Regex: 
+
+https://coding-boot-camp.github.io/full-stack/computer-science/regex-tutorial
+
+https://www.abstractapi.com/tools/email-regex-guide
+
 
 
 
